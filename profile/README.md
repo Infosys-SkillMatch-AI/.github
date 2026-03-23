@@ -1,42 +1,51 @@
+# 🚀 SkillMatch AI
 
-<h1 align="center">🚀 SkillMatch AI</h1>
-
-<p align="center">
-AI-powered Resume Matcher & Skill Recommendation Platform
-</p>
+**AI-Powered Resume Matcher & Skill Recommendation Platform**  
+*Bridging the gap between talent and opportunity using intelligent systems*
 
 ---
 
-## 👥 Team Members
-- Rajveer Singhal  
-- Member 2  
-- Member 3  
-- Member 4  
+## 🌟 About SkillMatch AI
+
+SkillMatch AI is an intelligent system designed to enhance the recruitment process using **Natural Language Processing (NLP)** and **Machine Learning**.
+
+It helps to:
+- 📄 Match resumes with job descriptions  
+- 🎯 Identify skill gaps  
+- 📈 Recommend relevant skills  
+- 🤖 Provide data-driven insights  
 
 ---
 
-## 📂 Projects
-- 🔹 Resume Matcher  
-- 🔹 Skill Recommender  
-- 🔹 Frontend Dashboard  
-- 🔹 Machine Learning Model  
+## 🧠 Core Features
+
+- 🔍 Resume Matching Engine  
+- 🧩 Skill Gap Analysis  
+- 💡 Smart Skill Recommendations  
+- 📊 Analytics Dashboard  
+- ⚡ FastAPI Backend  
+- 🎨 Modern Responsive UI  
 
 ---
 
-## 💡 About Project
-SkillMatch AI is an intelligent platform that:
-- Matches resumes with job roles  
-- Recommends skills to improve  
-- Uses Machine Learning for predictions  
+## 👥 Team
+
+| Name | Role |
+|------|------|
+| Rajveer Singhal | Backend & Machine Learning |
+| Member 2 | Frontend Development |
+| Member 3 | Data Science / ML |
+| Member 4 | UI/UX & Testing |
 
 ---
 
-## ⚙️ Tech Stack
-- Python 🐍  
-- FastAPI ⚡  
-- React ⚛️  
-- Machine Learning 🤖  
+## 🏗️ System Architecture
 
----
-
-<p align="center">✨ Built with teamwork & innovation ✨</p>
+```mermaid
+graph TD
+    U[User] --> F[Frontend (React)]
+    F --> B[Backend (FastAPI)]
+    B --> N[NLP Engine]
+    N --> M[Matching Engine]
+    N --> S[Suggestion Engine]
+    B --> D[(MongoDB)]
