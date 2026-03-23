@@ -1,4 +1,4 @@
-# 🧩 SkillMatch-AI
+# 🌟 SkillMatch-AI 🌟
 
 > **AI-Powered Resume Matcher & Skill Intelligence Platform**  
 Bridging the gap between talent and opportunity using intelligent automation.
